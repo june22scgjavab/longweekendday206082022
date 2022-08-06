@@ -1,0 +1,10 @@
+HOPE YOU TRIED CREATING AN APPLICATION SIMILAR TO springdatademo. So are you able to
+recollect what are the annotations used and what are the methods related to 
+CrudRepository interface?
+
+In the current application , springdataaoploggerdemo, the logger got added and
+is logged with AOP. I hope you have revised AOP programming and Logging with Log4j.
+
+If not please revise and then check this demo code.
+
+HAPPY LEARNING!!!!!!!!
