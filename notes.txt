@@ -1,4 +1,8 @@
-HOPE YOU TRIED CREATING AN APPLICATION SIMILAR TO springdatademo. So are you able to
+HOPE YOU TRIED CREATING AN APPLICATION SIMILAR TO springdatademo. 
+
+https://github.com/june22scgjavab/longweekendday105082022
+
+So are you able to
 recollect what are the annotations used and what are the methods related to 
 CrudRepository interface?
 
